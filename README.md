@@ -18,7 +18,7 @@ Currently building in public — one product at a time.
 
 ## Currently building
 
-**LogLens** — Paste your logs. Know what broke and why. In 10 seconds.
+**LogSage** — Paste your logs. Know what broke and why. In 10 seconds.
 
 AI-powered log analysis · auto format detection · error grouping · root cause suggestions  
 Built with .NET 9 · Next.js 15 · PostgreSQL · Claude API
