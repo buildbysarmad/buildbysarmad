@@ -27,22 +27,19 @@ Upload or paste any log file. LogSage auto-detects the format, groups similar er
 - Auto-detects Serilog, NLog, Log4Net, standard, and plain text formats
 - Groups similar errors by pattern automatically
 - Surfaces root causes — not just what complained, but what actually broke
-- AI analysis per error group (severity, root cause, fix suggestion)
 - No account needed to start — paste logs, get answers
 
 **How it's built**
 - Backend: .NET 9 Minimal API + PostgreSQL + EF Core 9
 - Frontend: Next.js 15 + Tailwind CSS + shadcn/ui
-- AI: Claude API (`claude-sonnet-4-20250514`)
 - Auth: JWT + refresh token rotation
 - Infra: Docker + GitHub Actions + Railway + Netlify
 
-**Status:** In active development. Waitlist open at [logsage.dev](https://logsage.dev)
+**Status:** LIVE!!! Go check it out now![logsage.dev](https://logsage.dev)
 
 ![.NET](https://img.shields.io/badge/.NET_9-512BD4?style=flat&logo=dotnet&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js_15-000000?style=flat&logo=nextdotjs&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
-![Claude API](https://img.shields.io/badge/Claude_API-D97706?style=flat&logo=anthropic&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 
 ## Background
