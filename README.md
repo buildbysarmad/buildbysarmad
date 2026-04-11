@@ -35,7 +35,7 @@ Upload or paste any log file. LogSage auto-detects the format, groups similar er
 - Auth: JWT + refresh token rotation
 - Infra: Docker + GitHub Actions + Railway + Netlify
 
-**Status:** LIVE!!! Go check it out now![logsage.dev](https://logsage.dev)
+**Status:** LIVE!!! Go check it out now! [logsage.dev](https://logsage.dev)
 
 ![.NET](https://img.shields.io/badge/.NET_9-512BD4?style=flat&logo=dotnet&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js_15-000000?style=flat&logo=nextdotjs&logoColor=white)
