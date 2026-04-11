@@ -19,7 +19,7 @@ Currently building in public — one product at a time.
 
 ### [LogSage](https://logsage.dev) — Paste your logs. Know what broke and why.
 
-> AI-powered log analysis for developers and small teams.
+> Upload a log file. Get errors grouped, root causes explained, and actionable insights. No agent to install. No config.
 
 Upload or paste any log file. LogSage auto-detects the format, groups similar errors by pattern, and surfaces root causes — so you can fix things faster instead of reading noise.
 
